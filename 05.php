@@ -39,7 +39,7 @@
 		},
 		methods: {
 			toggleClass() {
-				this.isLoading = true;
+				this.isLoading = !this.isLoading;
 			}
 		}
 	})
