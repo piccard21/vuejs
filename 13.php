@@ -8,7 +8,7 @@
 
 
 <div id="root" class="container">
-	<h1>Component Communication Example #1: Custom Events</h1>
+	<h1>Component Communication Example #2: Event Dispatcher</h1>
 
 	<coupon @applied="onCouponApplied"></coupon>
 	
@@ -20,7 +20,24 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.2/vue.js"></script>
 <script>Vue.config.devtools = true;</script>
 <script>
+	
+	
+	// shared instance!!!
+//	window.Event = new Vue();
 
+	window.Event = new class {
+		constructor() {
+			this.vue = new Vue();
+		}
+		
+		fire(event, data=null) {
+			this.vue.$emit(event, data);
+		}
+		
+		listen(event, callback) {
+			this.vue.$on(event, callback);
+		}
+	}
 
 	Vue.component('coupon', {
 		template: `
@@ -29,15 +46,11 @@
 		methods: {
 			onCouponApplied() {
 				console.info("applied!!!");
-//				this.$emit('applied', this.coupon);
-				this.$emit('applied');
+//				Event.$emit('applied');
+				Event.fire('applied');
 			}
 		},
 		props: {
-		},
-		data() {
-			return {
-			}
 		},
 		computed: {
 		},
@@ -56,7 +69,11 @@
 				this.couponApplied = true;
 			}
 		},
-		computed: {}
+		computed: {},
+		created() {
+//			Event.$on('applied', () => console.info('Handling it ... '));
+			Event.listen('applied', () => console.info('Handling it ... '));
+		}
 	})
 
 </script>
