@@ -6,9 +6,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css">
 <body>
 
-<h1 class="title is-3">Webpack and vue-cli</h1>
+<h1 class="title is-3">Vue Ajax Requests With Axios</h1>
 
-see: ./my-app
+see: ./lesson
 
 
 </body>
