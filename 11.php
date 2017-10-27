@@ -8,7 +8,7 @@
 
 
 <div id="root" class="container">
-	<h1>Practical Component Exercise #3: Tabs</h1>
+	<h1 class="title is-3">Practical Component Exercise #3: Tabs</h1>
 
 	<tabs>
 		<tab name="About us" selected="true"><h2>Lorem ipsum dolor set 1111</h2></tab>

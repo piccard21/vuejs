@@ -8,7 +8,7 @@
 
 
 <div id="root" class="container">
-	<h1>Component Communication Example #1: Custom Events</h1>
+	<h1 class="title is-3">Component Communication Example #1: Custom Events</h1>
 
 	<coupon @applied="onCouponApplied"></coupon>
 	
