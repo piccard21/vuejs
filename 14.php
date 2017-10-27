@@ -8,7 +8,7 @@
 
 
 <div id="root" class="container">
-	<h1>Named Slots in a Nutshell</h1>
+	<h1 class="title is-3">Named Slots in a Nutshell</h1>
 	
 	<modal>
 		<!-- template-tag wird in Komponente einfach weggelassen-->
