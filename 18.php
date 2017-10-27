@@ -8,7 +8,7 @@
 
 <h1 class="title is-3">Vue Ajax Requests With Axios</h1>
 
-see: ./lesson
+see: ./vue-app
 
 
 </body>
