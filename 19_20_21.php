@@ -1,0 +1,1 @@
+see: https://github.com/laracasts/Vue-Forms/blob/master/public/js/app.js
