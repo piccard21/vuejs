@@ -2,7 +2,7 @@
 
 
 <p>
-	see <a href="https://laracasts.com/series/learn-vue-2-step-by-step/episodes/25">https://laracasts.com/series/learn-vue-2-step-by-step/episodes/25</a>
+	see <a href="https://github.com/laracasts/Vue-SPA-Essentials-Routing/tree/master/resources/assets/js">github-repo</a>
 </p>
 
 
