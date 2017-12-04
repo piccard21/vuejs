@@ -18,7 +18,8 @@ export default {
 
 <style>
 .box {
-	background: grey;
+	background: orange;
+    color: white;
 	padding: 10px;
 	border: 1px solid #c5c5c5;
 	margin-bottom: 10px;

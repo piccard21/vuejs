@@ -8,7 +8,12 @@
 
 <h1 class="title is-3">Webpack and vue-cli</h1>
 
-see: ./my-app
+<ul>
+	<li>see: ./my-app</li>
+	<li><a href="https://vue-loader.vuejs.org/en/start/setup.html">vue-loader setup</a></li>
+	<li>start by: <strong>npm run dev</strong></li>
+</ul>
+
 
 
 </body>
