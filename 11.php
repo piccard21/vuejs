@@ -23,7 +23,7 @@
 <script>Vue.config.devtools = true;</script>
 <script>
 
-
+	// COMPONENT: tabs
 	Vue.component('tabs', {
 		template: `<div>
 			<div class="tabs">
@@ -45,6 +45,7 @@
 			}
 		},
 		created() {
+			// SEE HERE: $children
 			this.tabs = this.$children;
 		},
 		methods: {
@@ -60,6 +61,7 @@
 	});
 
 
+	// COMPONENT: tab
 	Vue.component('tab', {
 		props: {
 			name: {

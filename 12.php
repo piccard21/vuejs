@@ -10,7 +10,7 @@
 <div id="root" class="container">
 	<h1 class="title is-3">Component Communication Example #1: Custom Events</h1>
 
-	<coupon @applied="onCouponApplied"></coupon>
+	<coupon @coupon-was-applied="onCouponApplied"></coupon>
 	
 	
 	<h1 v-if="couponApplied">You use a coupon!</h1>
@@ -28,9 +28,9 @@
 		`,
 		methods: {
 			onCouponApplied() {
-				console.info("applied!!!");
+				console.info("applied from component");
 //				this.$emit('applied', this.coupon);
-				this.$emit('applied');
+				this.$emit('coupon-was-applied');
 			}
 		},
 		props: {
@@ -52,7 +52,7 @@
 		},
 		methods: {
 			onCouponApplied() {
-				console.info("It was applied");
+				console.info("applied from Vue-instance");
 				this.couponApplied = true;
 			}
 		},
