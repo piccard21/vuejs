@@ -17,5 +17,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="laravel-test" />
+    <orderEntry type="module" module-name="karma-test" />
   </component>
 </module>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../laravel-test/tests_js/Specs/InputChip.js" line="14" mnemonic="7" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="04e566f2-e9ab-4029-a0e7-c8f497c7d172" name="Default" comment="custom components">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../laravel-test/public/js/app.js" afterPath="$PROJECT_DIR$/../laravel-test/public/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js" afterPath="$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ExampleComponent.vue" afterPath="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ExampleComponent.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vue-test.iml" afterPath="$PROJECT_DIR$/.idea/vue-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25.php" afterPath="$PROJECT_DIR$/25.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/WhateverComponent.vue" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/Specs/WhateverTest.js" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/package-lock.json" afterPath="$PROJECT_DIR$/../laravel-test/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/package.json" afterPath="$PROJECT_DIR$/../laravel-test/package.json" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/public/js/app.js" afterPath="$PROJECT_DIR$/../laravel-test/public/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/public/mix-manifest.json" afterPath="$PROJECT_DIR$/../laravel-test/public/mix-manifest.json" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/tests_js/Specs/InputChip.js" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/Specs/InputChip.js" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" />
+      <change beforePath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" afterPath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vue-test.iml" afterPath="$PROJECT_DIR$/.idea/vue-test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,34 +30,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07.php">
+      <file leaf-file-name="01.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="240">
+              <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="53" column="89" lean-forward="false" selection-start-line="53" selection-start-column="89" selection-end-line="53" selection-end-column="89" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -57,53 +57,112 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>applied</find>
+      <find>cc</find>
+      <find>&lt;cc</find>
+      <find>input-chip</find>
+      <find>type</find>
+      <find>chipValue</find>
+      <find>DomainForm</find>
+      <find>base</find>
+      <find>Wha</find>
+      <find>comp-test</find>
+      <find>LOG_INFO</find>
+      <find>chr</find>
+      <find>chrome</find>
       <find>app</find>
+      <find>app.js</find>
+      <find>MyComponent</find>
+      <find>brows</find>
+      <find>chip-wrapper</find>
+      <find>Chip2</find>
+      <find>input-chip-component-empty</find>
+      <find>chip-test-template</find>
+      <find>ic-test</find>
+      <find>whate</find>
+      <find>_dataModel_load</find>
+      <find>initialc</find>
+      <find>conso</find>
+      <find>console</find>
+      <find>set value of new item</find>
+      <find>initialChips</find>
+      <find>cons</find>
+      <find>evt</find>
     </findStrings>
+    <replaceStrings>
+      <replace>hideMessage</replace>
+      <replace>updateChip</replace>
+      <replace>InputChip</replace>
+      <replace>WhateverComponent</replace>
+      <replace>ExampleComponent</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/../laravel-test/resources/assets/js</dir>
+      <dir>$PROJECT_DIR$/../laravel-test/resources</dir>
+      <dir>$PROJECT_DIR$/../laravel-test</dir>
+      <dir>$PROJECT_DIR$/../karma-test</dir>
+      <dir>$PROJECT_DIR$/../karma-test/tests_js</dir>
+      <dir>$PROJECT_DIR$/../karma-test/resources</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/02.php" />
-        <option value="$PROJECT_DIR$/03.php" />
-        <option value="$PROJECT_DIR$/04.php" />
-        <option value="$PROJECT_DIR$/05.php" />
-        <option value="$PROJECT_DIR$/06.php" />
-        <option value="$PROJECT_DIR$/07.php" />
-        <option value="$PROJECT_DIR$/08.php" />
-        <option value="$PROJECT_DIR$/09.php" />
-        <option value="$PROJECT_DIR$/10.php" />
-        <option value="$PROJECT_DIR$/12.php" />
-        <option value="$PROJECT_DIR$/11.php" />
-        <option value="$PROJECT_DIR$/13.php" />
-        <option value="$PROJECT_DIR$/14.php" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ModalComponent.vue" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ProgressViewComponent.vue" />
         <option value="$PROJECT_DIR$/15.php" />
-        <option value="$PROJECT_DIR$/my-app/src/App.vue" />
-        <option value="$PROJECT_DIR$/my-app/src/components/Message.vue" />
-        <option value="$PROJECT_DIR$/lesson/src/App.vue" />
-        <option value="$PROJECT_DIR$/lesson/src/components/Counter.vue" />
-        <option value="$PROJECT_DIR$/16.php" />
-        <option value="$PROJECT_DIR$/17.php" />
-        <option value="$PROJECT_DIR$/18.php" />
-        <option value="$PROJECT_DIR$/01.php" />
-        <option value="$PROJECT_DIR$/vue-app/public/js/app.js" />
-        <option value="$PROJECT_DIR$/vue-app/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/vue-app/resources/views/oo-form.blade.php" />
-        <option value="$PROJECT_DIR$/vue-app/app/Http/Controllers/OoFormController.php" />
-        <option value="$PROJECT_DIR$/vue-app/routes/web.php" />
-        <option value="$PROJECT_DIR$/19_20.php" />
-        <option value="$PROJECT_DIR$/25.php" />
-        <option value="$PROJECT_DIR$/../laravel-test/package.json" />
-        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/sass/app.scss" />
-        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/sass/_variables.scss" />
-        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ExampleComponent.vue" />
-        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ChipsComponent.vue" />
+        <option value="/tmp/tools-systemlokalisierung/app/Http/Controllers/AddButton.php" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ChipComponent.vue" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/views/chips.blade.php" />
+        <option value="$PROJECT_DIR$/../laravel-test/routes/web.php" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/IcComponent.vue" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/CComponent.vue" />
         <option value="$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/InputChipComponent.vue" />
+        <option value="$PROJECT_DIR$/../laravel-test/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/webpack.config.base.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/test_js/InputChip.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/test_js/Specs/InputChip.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/webpack.mix.test.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/common.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/Specs/SimpleTest.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/mix-manifest.json" />
+        <option value="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/WhateverComponent.vue" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/Specs/Whatever.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/README.md" />
+        <option value="$PROJECT_DIR$/../karma-test/my.conf.js" />
+        <option value="$PROJECT_DIR$/../karma-test/tests_js/exampleCompTest.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/package.json" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/Specs/WhateverTest.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/Tests/InputChip.js" />
+        <option value="$PROJECT_DIR$/../karma-test/webpack.mix.main.js" />
+        <option value="$PROJECT_DIR$/../karma-test/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/../karma-test/webpack.mix.test.js" />
+        <option value="$PROJECT_DIR$/../karma-test/webpack.config.base.js" />
+        <option value="$PROJECT_DIR$/../karma-test/tests_js/Specs/exampleCompTest.js" />
+        <option value="$PROJECT_DIR$/../laravel-test/tests_js/Specs/InputChip.js" />
+        <option value="$PROJECT_DIR$/../karma-test/tests_js/my.conf.js" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/sass/app.scss" />
+        <option value="$PROJECT_DIR$/../karma-test/package.json" />
+        <option value="$PROJECT_DIR$/../karma-test/README.md" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/js/components/ExampleComponent.vue" />
+        <option value="$PROJECT_DIR$/../karma-test/tests_js/Specs/ExampleCompTest.js" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/js/components/InputChipComponent.vue" />
+        <option value="$PROJECT_DIR$/../karma-test/resources/assets/js/components/ChipComponent.vue" />
+        <option value="$PROJECT_DIR$/../karma-test/tests_js/Specs/InputChipCompTest.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -114,6 +173,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../karma-test/node_modules" />
     <handled-path value="$PROJECT_DIR$/../laravel-test/node_modules" />
     <handled-path value="$PROJECT_DIR$/lesson/node_modules" />
     <handled-path value="$PROJECT_DIR$/my-app/node_modules" />
@@ -125,12 +185,14 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1680" />
+    <option name="x" value="1696" />
     <option name="y" value="-4" />
-    <option name="width" value="1680" />
-    <option name="height" value="1054" />
+    <option name="width" value="1623" />
+    <option name="height" value="982" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -146,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -157,56 +218,42 @@
             </path>
             <path>
               <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vue-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vue-test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../karma-test/tests_js" />
+      <recent name="$PROJECT_DIR$/../karma-test/tests_js/Specs" />
+      <recent name="$PROJECT_DIR$/../karma-test" />
+      <recent name="$PROJECT_DIR$/../laravel-test/tests_js" />
+      <recent name="$PROJECT_DIR$/../laravel-test/test_js/Specs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/vue-app/resources/views" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../karma-test/tests_js/Specs" />
+      <recent name="$PROJECT_DIR$/../karma-test/resources/assets/js/components" />
+      <recent name="$PROJECT_DIR$/../laravel-test/tests_js" />
+      <recent name="$PROJECT_DIR$/../laravel-test" />
+      <recent name="$PROJECT_DIR$/../laravel-test/resources/assets/js/components" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,11 +268,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.laravel-test">
+  <component name="RunManager" selected="PHP Built-in Web Server.vue-test">
+    <configuration name="vue-test" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8010" />
     <configuration name="laravel-test" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../laravel-test/artisan" scriptParameters="serve" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.vue-test" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.laravel-test" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -239,7 +294,17 @@
       <workItem from="1509352965017" duration="6577000" />
       <workItem from="1509619590651" duration="615000" />
       <workItem from="1509625563497" duration="689000" />
-      <workItem from="1509626263722" duration="6550000" />
+      <workItem from="1509626263722" duration="29215000" />
+      <workItem from="1509957921790" duration="45006000" />
+      <workItem from="1510739811925" duration="36000" />
+      <workItem from="1510739863411" duration="760000" />
+      <workItem from="1510744484514" duration="1223000" />
+      <workItem from="1511513424165" duration="16505000" />
+      <workItem from="1511954753179" duration="675000" />
+      <workItem from="1511956173337" duration="4988000" />
+      <workItem from="1511964111583" duration="9061000" />
+      <workItem from="1512036349860" duration="6271000" />
+      <workItem from="1512044274841" duration="34097000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1509017442901</created>
@@ -311,34 +376,293 @@
       <option name="project" value="LOCAL" />
       <updated>1509628515583</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cimple Vue">
+      <created>1509633360657</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1509633360657</updated>
+    </task>
+    <task id="LOCAL-00012" summary="custom components">
+      <created>1509703353757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509703353757</updated>
+    </task>
+    <task id="LOCAL-00013" summary="custom components">
+      <created>1509706021818</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1509706021818</updated>
+    </task>
+    <task id="LOCAL-00014" summary="custom components">
+      <created>1509706055190</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509706055190</updated>
+    </task>
+    <task id="LOCAL-00015" summary="custom components">
+      <created>1509707407015</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1509707407015</updated>
+    </task>
+    <task id="LOCAL-00016" summary="custom components">
+      <created>1509712536604</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1509712536604</updated>
+    </task>
+    <task id="LOCAL-00017" summary="custom components">
+      <created>1509715085727</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1509715085727</updated>
+    </task>
+    <task id="LOCAL-00018" summary="chips first test">
+      <created>1509968961840</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1509968961840</updated>
+    </task>
+    <task id="LOCAL-00019" summary="zwischenstop">
+      <created>1510227064428</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1510227064428</updated>
+    </task>
+    <task id="LOCAL-00020" summary="separator">
+      <created>1510312355621</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1510312355621</updated>
+    </task>
+    <task id="LOCAL-00021" summary="custom components">
+      <created>1510316009732</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1510316009732</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new arrangement">
+      <created>1511520029074</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1511520029074</updated>
+    </task>
+    <task id="LOCAL-00023" summary="tests begin">
+      <created>1511532056977</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1511532056977</updated>
+    </task>
+    <task id="LOCAL-00024" summary="custom component">
+      <created>1511965573293</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1511965573293</updated>
+    </task>
+    <task id="LOCAL-00025" summary="karma.conf">
+      <created>1511965932311</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1511965932311</updated>
+    </task>
+    <task id="LOCAL-00026" summary="custom components">
+      <created>1511966970791</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1511966970791</updated>
+    </task>
+    <task id="LOCAL-00027" summary="components are compiled">
+      <created>1512034378471</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1512034378471</updated>
+    </task>
+    <task id="LOCAL-00028" summary="custom components">
+      <created>1512034460162</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1512034460162</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new runner &amp; browser">
+      <created>1512036275398</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1512036275398</updated>
+    </task>
+    <task id="LOCAL-00030" summary="running basic tests">
+      <created>1512037055981</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1512037055981</updated>
+    </task>
+    <task id="LOCAL-00031" summary="custom components">
+      <created>1512039853936</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1512039853936</updated>
+    </task>
+    <task id="LOCAL-00032" summary="color-chips">
+      <created>1512040847567</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1512040847567</updated>
+    </task>
+    <task id="LOCAL-00033" summary="inputChip">
+      <created>1512040930132</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1512040930132</updated>
+    </task>
+    <task id="LOCAL-00034" summary="custom components">
+      <created>1512041069025</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1512041069025</updated>
+    </task>
+    <task id="LOCAL-00035" summary="2 events">
+      <created>1512041232719</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1512041232719</updated>
+    </task>
+    <task id="LOCAL-00036" summary="initial values">
+      <created>1512043094624</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1512043094624</updated>
+    </task>
+    <task id="LOCAL-00037" summary="rm">
+      <created>1512044197548</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1512044197548</updated>
+    </task>
+    <task id="LOCAL-00038" summary="zwischenstand">
+      <created>1512049491895</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1512049491895</updated>
+    </task>
+    <task id="LOCAL-00039" summary="sofar">
+      <created>1512054020233</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1512054020233</updated>
+    </task>
+    <task id="LOCAL-00040" summary="props tests">
+      <created>1512122784019</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1512122784019</updated>
+    </task>
+    <task id="LOCAL-00041" summary="custom components">
+      <created>1512124739349</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1512124739349</updated>
+    </task>
+    <task id="LOCAL-00042" summary="tick added">
+      <created>1512130761796</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1512130761796</updated>
+    </task>
+    <task id="LOCAL-00043" summary="span added">
+      <created>1512382459742</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1512382459742</updated>
+    </task>
+    <task id="LOCAL-00044" summary="not able to trigger keyboardEvent">
+      <created>1512382558820</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1512382558820</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38632000" />
+    <option name="totallyTimeSpent" value="179919000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-4" width="1682" height="1062" extended-state="6" />
+    <frame x="1680" y="-4" width="1680" height="1054" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26988983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2264382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20432432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20864865" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26213592" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26162162" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864866" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20432432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2123623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26162162" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -347,416 +671,425 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="Components examples" />
-    <MESSAGE value="Components 2 Component" />
-    <MESSAGE value="Named slots" />
-    <MESSAGE value="vue-cli" />
     <MESSAGE value="axios" />
-    <MESSAGE value="custom components" />
     <MESSAGE value="BS4" />
-    <option name="LAST_COMMIT_MESSAGE" value="BS4" />
+    <MESSAGE value="cimple Vue" />
+    <MESSAGE value="chips first test" />
+    <MESSAGE value="zwischenstop" />
+    <MESSAGE value="separator" />
+    <MESSAGE value="new arrangement" />
+    <MESSAGE value="tests begin" />
+    <MESSAGE value="custom component" />
+    <MESSAGE value="karma.conf" />
+    <MESSAGE value="components are compiled" />
+    <MESSAGE value="new runner &amp; browser" />
+    <MESSAGE value="running basic tests" />
+    <MESSAGE value="color-chips" />
+    <MESSAGE value="inputChip" />
+    <MESSAGE value="2 events" />
+    <MESSAGE value="initial values" />
+    <MESSAGE value="rm" />
+    <MESSAGE value="zwischenstand" />
+    <MESSAGE value="sofar" />
+    <MESSAGE value="props tests" />
+    <MESSAGE value="custom components" />
+    <MESSAGE value="tick added" />
+    <MESSAGE value="span added" />
+    <MESSAGE value="not able to trigger keyboardEvent" />
+    <option name="LAST_COMMIT_MESSAGE" value="not able to trigger keyboardEvent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/25.php">
+    <entry file="file://$PROJECT_DIR$/14.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="281">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25.php">
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/a.js" />
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/Tests/Whatever.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25.php">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/Tests/InputChip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="107" column="33" lean-forward="true" selection-start-line="107" selection-start-column="33" selection-end-line="107" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/Tests/WhateverTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18.php">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/Specs/WhateverTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/webpack.mix.main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19_20_21.php">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/webpack.mix.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="72" lean-forward="false" selection-start-line="0" selection-start-column="72" selection-end-line="0" selection-end-column="72" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/webpack.config.base.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/src/components/Counter.vue">
+    <entry file="file://$PROJECT_DIR$/../karma-test/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/webpack.mix.main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/webpack.config.base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/webpack.mix.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09.php">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/Tests/exampleCompTest.js" />
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/my.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="18" selection-end-column="6" />
-          <folding>
-            <marker date="1509020468000" expanded="true" signature="806:1073" ph="..." />
-            <marker date="1509020468000" expanded="true" signature="839:1001" ph="..." />
-            <marker date="1509020468000" expanded="true" signature="1032:1059" ph="..." />
-          </folding>
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11.php">
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/components/InputChipComponent.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ChipComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="141" column="8" lean-forward="true" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="161" column="31" lean-forward="true" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../laravel-test/tests_js/Specs/InputChip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/Tests/ExampleCompTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1509027189000" expanded="true" signature="719:1000" ph="..." />
-            <marker date="1509027189000" expanded="true" signature="741:930" ph="..." />
-            <marker date="1509027189000" expanded="true" signature="751:920" ph="..." />
-            <marker date="1509027189000" expanded="true" signature="822:909" ph="..." />
-            <marker date="1509027189000" expanded="true" signature="963:991" ph="..." />
-            <marker date="1509027189000" expanded="true" signature="1609:1637" ph="..." />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/src/assets/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/Tests/InputChipCompTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="32" column="39" lean-forward="false" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <marker date="1512050873000" expanded="true" signature="30:50" ph="..." />
+            <marker date="1512050873000" expanded="true" signature="247:269" ph="..." />
+            <marker date="1512050873000" expanded="true" signature="1841:1861" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="570">
+            <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/Specs/ExampleCompTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/js/components/ExampleComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/js/components/InputChipComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/tests_js/Specs/InputChipCompTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="156" column="40" lean-forward="true" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/js/components/ChipComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <marker date="1512128867000" expanded="true" signature="597:635" ph="{&quot;el&quot;: '##example-component'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-app/src/components/Message.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my-app/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/src/components/Counter.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-app/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-app/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-app/resources/views/oo-form.blade.php" />
-    <entry file="file://$PROJECT_DIR$/vue-app/app/Http/Controllers/OoFormController.php" />
-    <entry file="file://$PROJECT_DIR$/vue-app/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-app/app/Http/Controllers/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vue-app/public/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="73" lean-forward="false" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1509021473000" expanded="true" signature="584:660" ph="..." />
-            <marker date="1509021473000" expanded="true" signature="584:691" ph="..." />
-            <marker date="1509021473000" expanded="true" signature="584:1025" ph="..." />
-            <marker date="1509021473000" expanded="true" signature="659:660" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <marker date="1509092085000" expanded="true" signature="1360:1674" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1360:1884" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1430:1674" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1469:1633" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1506:1557" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1673:1674" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1751:1752" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1751:1864" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1786:1787" ph="..." />
-            <marker date="1509092085000" expanded="true" signature="1786:1851" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19_20_21.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/sass/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/sass/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <marker date="1509019658000" expanded="true" signature="478:548" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="79" lean-forward="true" selection-start-line="22" selection-start-column="79" selection-end-line="23" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ExampleComponent.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="53" column="89" lean-forward="false" selection-start-line="53" selection-start-column="89" selection-end-line="53" selection-end-column="89" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../laravel-test/resources/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="56" column="30" lean-forward="true" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding />
         </state>
       </provider>
