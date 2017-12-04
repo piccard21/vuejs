@@ -22,7 +22,7 @@
 <script>
 	
 	
-	// shared instance!!!
+	// SEE: shared instance!!!
 //	window.Event = new Vue();
 
 	window.Event = new class {

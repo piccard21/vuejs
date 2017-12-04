@@ -16,8 +16,7 @@
       <change beforePath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" />
       <change beforePath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" afterPath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/11.php" afterPath="$PROJECT_DIR$/11.php" />
-      <change beforePath="$PROJECT_DIR$/12.php" afterPath="$PROJECT_DIR$/12.php" />
+      <change beforePath="$PROJECT_DIR$/13.php" afterPath="$PROJECT_DIR$/13.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,8 +53,8 @@
       <file leaf-file-name="13.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-225">
+              <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -120,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="/tmp/tools-systemlokalisierung/app/Http/Controllers/AddButton.php" />
         <option value="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/ChipComponent.vue" />
         <option value="$PROJECT_DIR$/../laravel-test/resources/views/chips.blade.php" />
         <option value="$PROJECT_DIR$/../laravel-test/routes/web.php" />
@@ -171,6 +169,7 @@
         <option value="$PROJECT_DIR$/07.php" />
         <option value="$PROJECT_DIR$/11.php" />
         <option value="$PROJECT_DIR$/12.php" />
+        <option value="$PROJECT_DIR$/13.php" />
       </list>
     </option>
   </component>
@@ -302,7 +301,7 @@
       <workItem from="1511964111583" duration="9061000" />
       <workItem from="1512036349860" duration="6271000" />
       <workItem from="1512044274841" duration="35314000" />
-      <workItem from="1512390201971" duration="2088000" />
+      <workItem from="1512390201971" duration="2808000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1509017442901</created>
@@ -626,11 +625,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512390342292</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="components">
+      <created>1512392303480</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1512392303480</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183224000" />
+    <option name="totallyTimeSpent" value="183944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-4" width="1680" height="1054" extended-state="6" />
@@ -683,7 +689,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="axios" />
     <MESSAGE value="BS4" />
     <MESSAGE value="cimple Vue" />
     <MESSAGE value="chips first test" />
@@ -708,7 +713,8 @@
     <MESSAGE value="not able to trigger keyboardEvent" />
     <MESSAGE value="rm" />
     <MESSAGE value="zwischenstand" />
-    <option name="LAST_COMMIT_MESSAGE" value="zwischenstand" />
+    <MESSAGE value="components" />
+    <option name="LAST_COMMIT_MESSAGE" value="components" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1099,8 +1105,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="-225">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding />
         </state>
       </provider>
