@@ -34,7 +34,7 @@
 		el: "#root",
 		data: {
 			className: "color-red",
-			title: "I am the title",
+			title: "I am the VueJS-title",
 			isLoading: false
 		},
 		methods: {

@@ -13,7 +13,6 @@
 	<task>Goto the school</task>
 	<task>Goto the cinema</task>
 	
-	
 </div>
 
 
