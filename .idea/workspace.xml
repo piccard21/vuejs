@@ -8,8 +8,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/README.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/resources/assets/js/components/WhateverComponent.vue" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/Specs/WhateverTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/30.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vue-testing/test/helpers/setup-browser-env.js" />
       <change beforePath="$PROJECT_DIR$/../laravel-test/package-lock.json" afterPath="$PROJECT_DIR$/../laravel-test/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/../laravel-test/package.json" afterPath="$PROJECT_DIR$/../laravel-test/package.json" />
       <change beforePath="$PROJECT_DIR$/../laravel-test/public/js/app.js" afterPath="$PROJECT_DIR$/../laravel-test/public/js/app.js" />
@@ -18,8 +16,6 @@
       <change beforePath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" afterPath="$PROJECT_DIR$/../laravel-test/tests_js/my.conf.js" />
       <change beforePath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" afterPath="$PROJECT_DIR$/../laravel-test/webpack.mix.main.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/vue-testing/package-lock.json" afterPath="$PROJECT_DIR$/vue-testing/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/vue-testing/package.json" afterPath="$PROJECT_DIR$/vue-testing/package.json" />
       <change beforePath="$PROJECT_DIR$/vue-testing/src/Notification.js" afterPath="$PROJECT_DIR$/vue-testing/src/Notification.js" />
       <change beforePath="$PROJECT_DIR$/vue-testing/test/notification.js" afterPath="$PROJECT_DIR$/vue-testing/test/notification.js" />
     </list>
@@ -45,11 +41,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vue-testing/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Notification.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vue-testing/src/Notification.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -58,8 +64,8 @@
       <file leaf-file-name="notification.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vue-testing/test/notification.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -201,8 +207,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1696" />
     <option name="y" value="-4" />
-    <option name="width" value="1623" />
-    <option name="height" value="982" />
+    <option name="width" value="1682" />
+    <option name="height" value="1062" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -250,10 +256,7 @@
             </path>
             <path>
               <item name="vue-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vue-testing" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="test" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="karma-test" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -332,14 +335,7 @@
       <workItem from="1511964111583" duration="9061000" />
       <workItem from="1512036349860" duration="6271000" />
       <workItem from="1512044274841" duration="35314000" />
-      <workItem from="1512390201971" duration="7631000" />
-    </task>
-    <task id="LOCAL-00002" summary="Components examples">
-      <created>1509023444965</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1509023444965</updated>
+      <workItem from="1512390201971" duration="12096000" />
     </task>
     <task id="LOCAL-00003" summary="Components 2 Component">
       <created>1509027082465</created>
@@ -677,11 +673,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512395687498</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="tests">
+      <created>1512398033404</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1512398033404</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188767000" />
+    <option name="totallyTimeSpent" value="193232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-4" width="1680" height="1054" extended-state="6" />
@@ -734,7 +737,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="zwischenstop" />
     <MESSAGE value="separator" />
     <MESSAGE value="new arrangement" />
     <MESSAGE value="tests begin" />
@@ -759,7 +761,8 @@
     <MESSAGE value="Events" />
     <MESSAGE value="vue-testing" />
     <MESSAGE value="testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing" />
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -818,17 +821,6 @@
             <marker date="1512050873000" expanded="true" signature="247:269" ph="..." />
             <marker date="1512050873000" expanded="true" signature="1841:1861" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../karma-test/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="570">
-            <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -973,18 +965,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <marker date="1509020468000" expanded="true" signature="806:1073" ph="..." />
-            <marker date="1509020468000" expanded="true" signature="839:1001" ph="..." />
-            <marker date="1509020468000" expanded="true" signature="1032:1059" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1009,22 +989,6 @@
             <marker date="1512391206000" expanded="true" signature="982:1010" ph="..." />
             <marker date="1512391206000" expanded="true" signature="1673:1701" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1150,21 +1114,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/30.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <marker date="1509020468000" expanded="true" signature="806:1073" ph="..." />
+            <marker date="1509020468000" expanded="true" signature="839:1001" ph="..." />
+            <marker date="1509020468000" expanded="true" signature="1032:1059" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="47" column="43" lean-forward="true" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1185,18 +1166,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../karma-test/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="570">
+            <caret line="56" column="25" lean-forward="true" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vue-testing/src/Notification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vue-testing/test/notification.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="40" column="24" lean-forward="false" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>

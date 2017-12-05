@@ -1,5 +1,6 @@
 export default {
-	template: '<div>{{message | capitalize}}</div>',
+	// template: '<div>{{message | capitalize}}</div>',
+	template: '<div>{{ notification }}</div>',
 
 	props: ['message'],
 
@@ -12,6 +13,12 @@ export default {
 	filters: {
 		capitalize(message) {
 			return message.toUpperCase();
+		}
+	},
+
+	computed: {
+		notification() {
+			return this.message.toUpperCase();
 		}
 	}
 

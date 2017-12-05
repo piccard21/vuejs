@@ -21,13 +21,22 @@ let vm;
 test.beforeEach(t => {
 
 	let N = Vue.extend(Notification);
-	vm = new N({propsData: {
+	vm = new N({
+		propsData: {
 			message: 'foobar'
-		}}).$mount();
+		}
+	}).$mount();
 
 });
 
-test('that it capitalzes the message', t => {
-	t.is(vm.$el.textContent, 'FOOBAR')
+// test('that it capitalzes the message', t => {
+// 	t.is(vm.$el.textContent, 'FOOBAR')
+// });
 
+test('that it renders a notification', t => {
+	t.is(vm.$el.textContent, 'FOOBAR')
+});
+
+test('that it computes the notification', t => {
+	t.is(vm.notification, 'FOOBAR')
 });
