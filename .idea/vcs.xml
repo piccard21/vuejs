@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../karma-test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../laravel-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sfc-jest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sfc-mocha" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tools/vue-utils" vcs="Git" />
   </component>
 </project>

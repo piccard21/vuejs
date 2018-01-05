@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../karma-test/.idea/karma-test.iml" filepath="$PROJECT_DIR$/../karma-test/.idea/karma-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../laravel-test/.idea/laravel-test.iml" filepath="$PROJECT_DIR$/../laravel-test/.idea/laravel-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sfc-mocha/.idea/sfc-mocha.iml" filepath="$PROJECT_DIR$/../sfc-mocha/.idea/sfc-mocha.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/vue-test.iml" filepath="$PROJECT_DIR$/.idea/vue-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tools/vue-utils/.idea/vue-utils.iml" filepath="$PROJECT_DIR$/../../tools/vue-utils/.idea/vue-utils.iml" />
     </modules>
   </component>
 </project>
